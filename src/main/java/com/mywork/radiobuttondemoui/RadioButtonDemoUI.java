@@ -6,7 +6,7 @@ package com.mywork.radiobuttondemoui;
 
 /**
  *
- * @author Eng Tracy Kazungu
+ * @author Eng Tracy Chao P Kazungu
  */
 
 import javax.swing.JOptionPane;
